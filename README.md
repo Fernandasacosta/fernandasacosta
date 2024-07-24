@@ -4,8 +4,8 @@
 <div>
   <a href="hhtps://github.com//github.com/Fernandasacosta">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernandasacosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Fernandasacosta&show_icons=true&theme=dracula">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandasacosta&layout=compact&langs_count=16&theme=dracula"/> 
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=Fernandasacosta&show_icons=true&theme=dracula">
+  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandasacosta&layout=compact&langs_count=16&theme=dracula"/> 
 </div>
 
 
